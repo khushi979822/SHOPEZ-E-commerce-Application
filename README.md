@@ -150,7 +150,7 @@ MONGO_URI=mongodb://127.0.0.1:27017/shopez # Or your MongoDB Atlas URI
 JWT_SECRET=your_super_secret_jwt_key
 ```
 
-**Seed Database (Optional):**
+***Seed Database (Optional):**
 To populate the database with initial dummy stocks, run:
 ```bash
 npm run seed
