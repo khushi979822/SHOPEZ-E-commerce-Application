@@ -192,3 +192,14 @@ npm run dev
 
 ## 📄 License
 This project is for educational and portfolio demonstration purposes.
+
+## 👨‍💻 Author
+
+***Khushi Kumari***
+
+Computer Science Engineering Student
+
+Jai Narain College of Technology, Bhopal
+
+MERN Stack Developer
+
