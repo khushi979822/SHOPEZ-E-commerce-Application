@@ -83,6 +83,7 @@ erDiagram
 
 ---
 
+
 ## 🛠️ Technology Stack
 
 **Frontend**
