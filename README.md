@@ -70,7 +70,6 @@ erDiagram
 
 ---
 
-
 ## 🚀 Features
 
 * **User Authentication**: Secure login and registration using JWT authentication and bcrypt password hashing.
@@ -82,7 +81,6 @@ erDiagram
 * **Theming**: Integrated Light/Dark mode toggle via context API, featuring premium UI elements, glassmorphism, and responsive design.
 
 ---
-
 
 ## 🛠️ Technology Stack
 
