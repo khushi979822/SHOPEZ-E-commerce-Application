@@ -70,7 +70,7 @@ erDiagram
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 
 * **User Authentication**: Secure login and registration using JWT authentication and bcrypt password hashing.
 * **Live Market View**: Browse a curated list of top stocks. Cards feature dynamic company logos fetched automatically based on the stock symbol.
