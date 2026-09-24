@@ -82,7 +82,7 @@ erDiagram
 
 ---
 
-## 🛠️ Technology Stack
+# 🛠️ Technology Stack
 
 **Frontend**
 * **Framework:** React (Bootstrapped with Vite)
