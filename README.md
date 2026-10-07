@@ -104,7 +104,7 @@ erDiagram
 ---
 
 
-## 📦 Project Structure
+# 📦 Project Structure
 
 The project is structured as a monorepo containing both the frontend and backend.
 
