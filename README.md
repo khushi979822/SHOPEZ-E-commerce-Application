@@ -1,3 +1,4 @@
+
 # ShopEZ - Premium E-Commerce Platform
 
 ShopEZ is a massive full-stack e-commerce web application built with the MERN (MongoDB, Express, React, Node.js) stack. It provides an intuitive interface to browse products, add items to a shopping cart, place orders, and manage inventory.
