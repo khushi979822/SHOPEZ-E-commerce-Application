@@ -72,6 +72,7 @@ erDiagram
 
 ---
 
+
 # 🚀 Features
 
 * **User Authentication**: Secure login and registration using JWT authentication and bcrypt password hashing.
